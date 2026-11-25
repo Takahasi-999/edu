@@ -67,9 +67,11 @@ a:focus-visible,
   place-items: center;
   padding: 4rem var(--space);
   color: #fff;
-  background:
-    linear-gradient(90deg, rgb(0 0 0 / 72%), rgb(0 0 0 / 18%)),
-    linear-gradient(135deg, #3e7562, #b97a45);
+background:
+  linear-gradient(90deg, rgb(0 0 0 / 72%), rgb(0 0 0 / 18%)),
+  url("../images/GGGGGGG.jpg");
+background-size: cover;
+background-position: center;
 }
 
 .hero__content {
